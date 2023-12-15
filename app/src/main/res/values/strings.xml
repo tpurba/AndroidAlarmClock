@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="settings">SETTINGS</string>
+</resources>
