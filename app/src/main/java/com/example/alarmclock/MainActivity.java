@@ -101,5 +101,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         {
             blueToothStatus.setText("Connected");
         }
+        blueToothStatus.setEnabled(false);
+        blueToothStatus.setFocusable(false);
+        blueToothStatus.setFocusableInTouchMode(false);
     }
 }
